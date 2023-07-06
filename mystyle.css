@@ -1,14 +1,2 @@
 h1 {border-bottom: 3px solid #aaa;color: #aaa;}
 h2 {color: #4169e1;}
-a {display: inline-block;
-  padding: 0.5em 1em;
-  text-decoration: none;
-  background: #aaa;
-  color: #FFF;
-  border-bottom: solid 4px rgb(134, 132, 132);
-  border-radius: 3px;ｎ}
-
-a:active {-webkit-transform: translateY(4px);
-  transform: translateY(4px);
-  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
-  border-bottom: none;}
